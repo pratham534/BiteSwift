@@ -1,0 +1,4 @@
+1. account section
+2. redirect not performing as required
+3. using images instead of gif
+4. accessibility to some features to admin only
